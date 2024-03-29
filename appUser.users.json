@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "65ece52289b7d27e4a9fce74"
+  },
+  "numIdentificacion": "1057607460",
+  "tipoIdentificacion": "Tarjeta Identidad",
+  "fechaNacimiento": "2024-03-02T05:00:00.000Z",
+  "edad": "0",
+  "telefono": "3158789764",
+  "correo": "blatorrecalderon@gmail.com",
+  "_class": "com.cruduserApp.userApp.model.Users"
+}]
